@@ -1,0 +1,12 @@
+Miguel Santos
+Email: miguel.santos@example.com
+Phone: +1 (415) 555-0199
+
+Summary
+Backend engineer focused on Java, Spark, and ETL. 4 years of experience.
+
+Skills
+Java, Spark, SQL, Linux
+
+Experience
+4 years in backend and data processing.

@@ -1,0 +1,11 @@
+{
+  "add-field": [
+    { "name": "candidate_id", "type": "string", "stored": true, "indexed": true },
+    { "name": "name", "type": "text_general", "stored": true, "indexed": true },
+    { "name": "email", "type": "string", "stored": true, "indexed": true },
+    { "name": "phone", "type": "string", "stored": true, "indexed": true },
+    { "name": "skills", "type": "text_general", "stored": true, "indexed": true, "multiValued": true },
+    { "name": "years_experience", "type": "pint", "stored": true, "indexed": true },
+    { "name": "source_file", "type": "string", "stored": true, "indexed": true }
+  ]
+}

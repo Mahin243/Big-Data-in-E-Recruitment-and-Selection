@@ -1,0 +1,12 @@
+Anna Rao
+Email: anna.rao@example.com
+Phone: +91 98765 43210
+
+Summary
+Data engineer with 6 years of experience in distributed systems, Hadoop, Hive, and MapReduce.
+
+Skills
+Python, Hadoop, Hive, MapReduce, Solr, SQL, Linux
+
+Experience
+6 years in big data processing and data warehouse pipelines.

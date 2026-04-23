@@ -1,0 +1,29 @@
+hdfs:
+  raw_dir: /data/resumes/raw
+  extracted_dir: /data/resumes/extracted
+  parsed_dir: /data/resumes/parsed
+
+local:
+  resumes_dir: data/samples
+  staging_dir: output/staging
+  extracted_jsonl: output/extracted.jsonl
+  parsed_tsv: output/parsed.tsv
+
+tika:
+  server_url: http://localhost:9998
+  timeout_sec: 30
+
+hadoop:
+  hdfs_bin: hdfs
+  hadoop_bin: hadoop
+  streaming_jar_glob: '%HADOOP_HOME%\share\hadoop\tools\lib\hadoop-streaming-*.jar'
+
+hive:
+  hive_bin: hive
+  database: resume_dw
+  parsed_table: resumes_parsed
+
+solr:
+  solr_bin: solr
+  base_url: http://localhost:8983/solr
+  core: resumes

@@ -1,0 +1,19 @@
+weights:
+  skills: 60
+  years_experience: 30
+  keyword_bonus: 10
+
+skills:
+  required:
+    - python
+    - hadoop
+    - hive
+    - solr
+    - mapreduce
+
+experience:
+  target_years: 5
+
+keywords:
+  - distributed systems
+  - data warehouse

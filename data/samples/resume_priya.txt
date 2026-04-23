@@ -1,0 +1,12 @@
+Priya Iyer
+Email: priya.iyer@example.com
+Phone: +91 90123 45678
+
+Summary
+Analytics engineer with 8 years of experience. Expert in Python, Hadoop, Hive, and Solr.
+
+Skills
+Python, Hadoop, Hive, Solr, SQL, Linux
+
+Experience
+8 years in data warehouse and search indexing.
