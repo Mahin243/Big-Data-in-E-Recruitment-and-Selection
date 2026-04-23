@@ -4,7 +4,7 @@ This project implements a deterministic, rule-based resume pipeline using the Ha
 HDFS ingestion → Apache Tika extraction → MapReduce parsing → Hive tables → Solr search → weighted scoring.
 
 ## Prerequisites (local installs, no Docker)
-1. **Java 8+** in `PATH`
+1. **Python** in `PATH`
 2. **Hadoop** (single-node) with `HADOOP_HOME` set and `hdfs`/`hadoop` in `PATH`
 3. **Hive** in `PATH` (or update `configs/config.yaml`)
 4. **Solr** in `PATH` (or update `configs/config.yaml`)
